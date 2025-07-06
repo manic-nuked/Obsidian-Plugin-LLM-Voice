@@ -8,7 +8,7 @@ AI-powered voice dictation, note management, and chat for Obsidian.
 - **Calendar Extraction**: Extract dates/times from notes and create calendar items.
 - **Task Generation**: Generate actionable daily task lists from note content.
 - **Backlink Suggestions**: Get AI-powered suggestions for internal links.
-- **AI Chat Side Panel**: Chat with an AI assistant that can see and analyze all your notes, summarize, search, and help you organize.
+- **AI Chat Side Panel**: Chat with an AI assistant that can see and analyse all your notes, summarise, search, and help you organise.
 - **Note Improvement Workflow**: When you ask the AI to improve/reformat a note, it shows a draft and asks for your approval before updating the actual note.
 
 ## 📦 Installation
