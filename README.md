@@ -1,0 +1,2 @@
+# Obsidian-Plugin-LLM-Voice
+
